@@ -1,0 +1,66 @@
+[
+    {
+      "title": "Introduction to Programming",
+      "description": "Learn the fundamentals of programming with this introductory course.",
+      "cover_photo": "intro_programming.jpg",
+      "price": 49.99,
+      "credit_hour": 3
+    },
+    {
+      "title": "Data Science Essentials",
+      "description": "Master the essential concepts and techniques of data science.",
+      "cover_photo": "data_science_essentials.jpg",
+      "price": 79.99,
+      "credit_hour": 5
+    },
+    {
+      "title": "Graphic Design Basics",
+      "description": "Explore the basics of graphic design and develop your creative skills.",
+      "cover_photo": "graphic_design_basics.jpg",
+      "price": 39.99,
+      "credit_hour": 2
+    },
+    {
+      "title": "Web Development Bootcamp",
+      "description": "Join our intensive bootcamp to become a proficient web developer.",
+      "cover_photo": "web_dev_bootcamp.jpg",
+      "price": 199.99,
+      "credit_hour": 10
+    },
+    {
+      "title": "Photography Fundamentals",
+      "description": "Learn the fundamentals of photography, from composition to editing.",
+      "cover_photo": "photography_fundamentals.jpg",
+      "price": 59.99,
+      "credit_hour": 4
+    },
+    {
+      "title": "Business Administration 101",
+      "description": "Get started with the basics of business administration and management.",
+      "cover_photo": "business_administration_101.jpg",
+      "price": 69.99,
+      "credit_hour": 4
+    },
+    {
+      "title": "Machine Learning Mastery",
+      "description": "Master the concepts and algorithms of machine learning in this advanced course.",
+      "cover_photo": "machine_learning_mastery.jpg",
+      "price": 129.99,
+      "credit_hour": 8
+    },
+    {
+      "title": "Financial Planning Principles",
+      "description": "Learn the principles of financial planning and wealth management.",
+      "cover_photo": "financial_planning_principles.jpg",
+      "price": 89.99,
+      "credit_hour": 6
+    },
+    {
+      "title": "Artificial Intelligence Fundamentals",
+      "description": "Discover the basics of artificial intelligence and its applications.",
+      "cover_photo": "ai_fundamentals.jpg",
+      "price": 99.99,
+      "credit_hour": 7
+    }
+  ]
+  
